@@ -263,5 +263,7 @@ Eixa IP és probablement la del servidor que té les carpetes compartides del do
 **Què veiem?**  
 Dins del recurs `public` es mostra l’estructura de carpetes típica d’un usuari (Descàrregues, Documents, etc.). Açò demostra que l’usuari del domini pot llegir i escriure (depèn dels permisos) en carpetes de grup.
 
+
+
 Conclusió:
 La pràctica està completament funcionant. Has après a connectar un client Linux (Zorin) a un domini Windows Server, gestionar permisos amb sudo per a grups del domini i accedir a recursos compartits. A més, has configurat la creació automàtica de la carpeta personal, que és essencial per a entorns d’aula o empresa.
